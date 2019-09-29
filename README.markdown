@@ -24,7 +24,6 @@ Download [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases) and 
 	* requires *Pd-Extended* for the [OSCroute] and [udpreceive] objects (part of the *mrpeach* external included in Pd-Extended)
 * [SuperCollider](http://supercollider.github.io/)
 
-Make sure FaceOSC is running and a face is detected (i.e., a face mesh is drawn). The face detection may run very slowly (0.5 fps) while initially searching for a face. It speeds up to 30-60fps once one is found. For best results, make sure your face is evenly lit.
 
 **Further info:**
 
