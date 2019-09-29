@@ -45,16 +45,3 @@ To (re)generate project files for an existing project:
 * click the "Update" button
 
 If everything went OK, you should now be able to open the generated project and build/run.
-
-### Choosing a Version
-
-If you are using an older version (007, ...) of OpenFrameworks then you'll want to use a git tag of this repo for that version. You can select the tag in the Github "Current Branch" menu or clone and check it out using git.
-
-For example, the following commands will clone  and switch to the OF 007 tagged version:
-<pre>
-git clone git://github.com/CreativeInquiry/FaceOSC-Templates.git
-cd FaceOSC-Templates
-git checkout of-007
-</pre>
-
-The current master branch should work with the current OF and a tag will only be created when there is an appreciable change in OF, so there may not be a tag for *every* version of OF. 
